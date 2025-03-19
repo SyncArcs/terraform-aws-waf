@@ -89,7 +89,7 @@ module "waf" {
 
 | Name | Version |
 |------|---------|
-| <a name="provider_aws"></a> [aws](#provider\_aws) | 5.91.0 |
+| <a name="provider_aws"></a> [aws](#provider\_aws) | >= 5.31.0 |
 
 ## Modules
 
